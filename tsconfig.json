@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "strict": true
+  },
+  "include": ["*.ts", "plugins"],
+  "exclude": ["node_modules", "playgrounds"]
+}
