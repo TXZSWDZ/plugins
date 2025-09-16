@@ -1,1 +1,1 @@
-# wthe plugins
+# csd and wthe plugins
